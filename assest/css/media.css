@@ -1,0 +1,341 @@
+@media (max-width:2560px) and (min-width:1441px) {
+  .nav-bar .btn{
+    display: none;
+  }
+}
+ @media (max-width:1440px) and (min-width:1201px) {
+  .nav-bar .btn{
+    display: none;
+  }
+ }
+ @media (max-width:1200px) and (min-width:1025px) {
+   
+ }
+ @media (max-width:1024px) and (min-width:997px) {
+  .nav-bar .btn{
+    display: none;
+  }
+  header {
+    width: 106%;
+  }
+  .about-us{
+    width: 106%;
+  }
+  .sec{
+    width: 106%;
+  }
+  .chose-us{
+    width: 106%;
+  }
+  .chose-us .contain .para-left p {
+    width: 412px;
+  }
+  .chose-us .contain .para-right p {
+    margin-bottom: 48px;
+  }
+  .chose-us .contain .para-right .web::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .graphics::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .developing::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .photoshope::after {
+    width: 120%;
+  }
+  .chose-us .contain .para-right .photography::after {
+    width: 120%;
+  }
+  .our-portfolio {
+    width: 106%;
+  }
+  .our-portfolio .row {
+    width: 90%;
+  }
+  .our-service {
+    width: 106%;
+  }
+  .our-service .row .box h2 {
+    font-size: 22px;
+  }
+  .our-team {
+    width: 106%;
+  }
+  .contact-us {
+    width: 106%;
+  }
+  .clients-say {
+    width: 106%;
+  }
+  .contact-with-us{
+    width: 106%;
+  }
+  .boxs{
+    width: 106%;
+  }
+  .boxs .row .box {
+    width: 80%;
+  }
+  .map{
+    width: 106%;
+  }
+  footer{
+    width: 106%;
+  }
+}
+ @media (max-width:996px) and (min-width:769px) {
+   
+ }
+ @media (max-width:768px) and (min-width:577px) {
+  .navbar-nav{
+    display: none;
+  }
+  header {
+    width: 123%;
+  }
+  .about-us{
+    width: 123%;
+  }
+  .about-us .container p {
+    width: 750px;
+  }
+  .sec{
+    width: 123%;
+  }
+  .chose-us{
+    width: 123%;
+  }
+  .chose-us .contain .para-left p {
+    width: 390px;
+  }
+  .chose-us .contain .para-right p {
+    width: 230px;
+    margin-bottom: 60px;
+  }
+  .chose-us .contain .para-right .web::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .graphics::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .developing::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .photoshope::after {
+    width: 120%;
+  }
+  .chose-us .contain .para-right .photography::after {
+    width: 120%;
+  }
+  .our-portfolio {
+    width: 123%;
+  }
+  .our-portfolio .btn {
+    width: 716px;
+  }
+  .our-portfolio .row {
+    width: 90%;
+  }
+  .our-service {
+    width: 123%;
+  }
+  .our-service .row .box h2 {
+    font-size: 22px;
+  }
+  .our-team {
+    width: 123%;
+  }
+  .contact-us {
+    width: 123%;
+  }
+  .clients-say {
+    width: 123%;
+  }
+  .contact-with-us{
+    width: 123%;
+  }
+  .boxs{
+    width: 123%;
+  }
+  .boxs .row .box {
+    width: 80%;
+  }
+  .map{
+    width: 123%;
+  }
+  footer{
+    width: 123%;
+  }
+ }
+ @media (max-width:576px) and (min-width:426px) {
+  
+ }
+ @media (max-width:425px) and (min-width:376px) {
+  .navbar-nav{
+    display: none;
+  }
+  header {
+    width: 215%;
+  }
+  .about-us{
+    width: 215%;
+  }
+  .about-us .container p {
+    width: 750px;
+  }
+  .sec{
+    width: 215%;
+  }
+  .chose-us{
+    width: 215%;
+  }
+  .chose-us .contain .para-left p {
+    width: 390px;
+  }
+  .chose-us .contain .para-right p {
+    width: 230px;
+    margin-bottom: 60px;
+  }
+  .chose-us .contain .para-right .web::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .graphics::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .developing::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .photoshope::after {
+    width: 120%;
+  }
+  .chose-us .contain .para-right .photography::after {
+    width: 120%;
+  }
+  .our-portfolio {
+    width: 215%;
+  }
+  .our-portfolio .btn {
+    width: 716px;
+  }
+  .our-portfolio .row {
+    width: 90%;
+  }
+  .our-service {
+    width: 215%;
+  }
+  .our-service .row .box h2 {
+    font-size: 22px;
+  }
+  .our-team {
+    width: 286%;
+  }
+  .contact-us {
+    width: 215%;
+  }
+  .clients-say {
+    width: 215%;
+  }
+  .contact-with-us{
+    width: 215%;
+  }
+  .boxs{
+    width: 215%;
+  }
+  .boxs .row .box {
+    width: 80%;
+  }
+  .map{
+    width: 215%;
+  }
+  footer{
+    width: 215%;
+  }
+ }
+ @media (max-width:375px) and (min-width:321px) {
+  .navbar-nav{
+    display: none;
+  }
+ }
+ @media (max-width:320px) {
+  .navbar-nav{
+    display: none;
+  }
+  header {
+    width: 286%;
+  }
+  .about-us{
+    width: 286%;
+  }
+  .about-us .container p {
+    width: 750px;
+  }
+  .sec{
+    width: 286%;
+  }
+  .chose-us{
+    width: 286%;
+  }
+  .chose-us .contain .para-left p {
+    width: 390px;
+  }
+  .chose-us .contain .para-right p {
+    width: 230px;
+    margin-bottom: 60px;
+  }
+  .chose-us .contain .para-right .web::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .graphics::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .developing::after {
+    width: 126%;
+  }
+  .chose-us .contain .para-right .photoshope::after {
+    width: 120%;
+  }
+  .chose-us .contain .para-right .photography::after {
+    width: 120%;
+  }
+  .our-portfolio {
+    width: 286%;
+  }
+  .our-portfolio .btn {
+    width: 716px;
+  }
+  .our-portfolio .row {
+    width: 90%;
+  }
+  .our-service {
+    width: 286%;
+  }
+  .our-service .row .box h2 {
+    font-size: 22px;
+  }
+  .our-team {
+    width: 286%;
+  }
+  .contact-us {
+    width: 286%;
+  }
+  .clients-say {
+    width: 286%;
+  }
+  .contact-with-us{
+    width: 286%;
+  }
+  .boxs{
+    width: 286%;
+  }
+  .boxs .row .box {
+    width: 80%;
+  }
+  .map{
+    width: 286%;
+  }
+  footer{
+    width: 286%;
+  }
+ }
